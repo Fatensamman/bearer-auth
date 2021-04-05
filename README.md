@@ -26,7 +26,7 @@
 
 ### Install
 - initialization using  `npm inint -y`
-- install libraries like express dotenv cors morgan  mongo  jsonweptoken 
+- install libraries like express dotenv cors morgan bcrypt base64 mongo  jsonweptoken 
 - install devDependencies like jest supertest eslint @code-fellows/supergoose
 - create files tree
 
